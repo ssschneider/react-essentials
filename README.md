@@ -30,7 +30,7 @@ This project was developed using:
 
 ## 💻 Deploy
 
-> [Click here to view the project!]()
+> [Click here to view the project!](https://react-essentials-eight.vercel.app/)
 
 
 <!-- ## 💻 Rode Local
@@ -46,7 +46,7 @@ Para rodar o projeto localmente, basta cumprir as seguintes etapas:
 React Essentials é uma aplicação desenvolvida no primeiro módulo do curso React - The Complete Guide 2024 (incl. React Router and Redux), provided Academind by Maximilian Schwarzmüller, um curso que estou fazendo com a intenção de melhorar ainda mais minha compreensão e conhecimentos em React. Durante esse projeto foram utilizadas as seguintes tecnologias:
 - React, Javascript, CSS e ViteJS
 
-Para ver a aplicação rodando é só [clicar aqui](") !
+Para ver a aplicação rodando é só [clicar aqui](https://react-essentials-eight.vercel.app/) !
 <!-- or run locally following these steps:
 ```
 ETAPAS PARA RODAR LOCAL EM PROJETOS MAIS COMPLEXOS
